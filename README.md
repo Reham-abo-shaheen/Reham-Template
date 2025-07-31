@@ -37,5 +37,5 @@ This project helped me understand layout planning, semantic HTML, and CSS Flexbo
 ## 📬 Contact
 
 If you'd like to connect, feel free to reach out:  
-[LinkedIn](https://www.linkedin.com/in/rehamaboshaheen) | [Behance](https://www.behance.net/rehamaboshaheen)
+[LinkedIn](https://www.linkedin.com/in/reham-abo-shaheen-17596326a/) | [Behance](https://www.behance.net/rehamaboshaheen)
 
