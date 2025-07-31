@@ -19,9 +19,6 @@ This project was created to practice front-end structure, layout design, and cle
 - Google Fonts
 - Font Awesome
 
-## 🖼️ Preview
-
-![screenshot](screenshots/homepage.png)
 
 ## 🌐 Live Demo
 
